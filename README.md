@@ -4,7 +4,7 @@
     /c/Users/k1ker/.ssh/
 
  ## SSH link
-    git@github.com:GamePlayer1225/demo-repo.git
+    git@github.com:GamePlayer1225/How-git-and-github-workes.git
 
 # How to make a pullrequest
 1. Create a Folder where you want to create the local repository.
