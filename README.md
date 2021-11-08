@@ -3,6 +3,9 @@
  ## SSH Key Path
     /c/Users/k1ker/.ssh/
 
+ ## SSH link
+    git@github.com:GamePlayer1225/demo-repo.git
+
 # How to make a pullrequest
 1. Create a Folder where you want to create the local repository.
 2. Open the Folder in Visual Studio Code.
